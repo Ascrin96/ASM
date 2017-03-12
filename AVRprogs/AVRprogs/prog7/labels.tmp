@@ -1,0 +1,30 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.30</VERSION>
+ <DEVICE>ATmega128</DEVICE>
+ <WORKING_DIR>D:\learning\AVRprogs\prog7</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:\learning\AVRStudio\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\learning\AVRprogs\prog7\prog7.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:\learning\AVRStudio\AvrAssembler2\Appnotes\m128def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\learning\AVRprogs\prog7\prog7.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>D:\learning\AVRprogs\prog7\prog7.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>D:\learning\AVRprogs\prog7\prog7.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <buf><FILE>D:\learning\AVRprogs\prog7\prog7.asm</FILE><LINE>15</LINE></buf>
+  <Init1><FILE>D:\learning\AVRprogs\prog7\prog7.asm</FILE><LINE>35</LINE></Init1>
+  <TIM1_COMPA><FILE>D:\learning\AVRprogs\prog7\prog7.asm</FILE><LINE>83</LINE></TIM1_COMPA>
+  <do_nothing><FILE>D:\learning\AVRprogs\prog7\prog7.asm</FILE><LINE>79</LINE></do_nothing>
+  <m2><FILE>D:\learning\AVRprogs\prog7\prog7.asm</FILE><LINE>103</LINE></m2>
+  <m1><FILE>D:\learning\AVRprogs\prog7\prog7.asm</FILE><LINE>96</LINE></m1>
+  <m3><FILE>D:\learning\AVRprogs\prog7\prog7.asm</FILE><LINE>109</LINE></m3>
+ </LABELS>
+</ASSEMBLER_INFO>

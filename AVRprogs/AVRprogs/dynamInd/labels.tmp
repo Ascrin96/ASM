@@ -1,0 +1,31 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.30</VERSION>
+ <DEVICE>ATmega16</DEVICE>
+ <WORKING_DIR>D:\learning\AVRprogs\dynamInd</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:\learning\AVRStudio\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\learning\AVRprogs\dynamInd\dynamInd.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:\learning\AVRStudio\AvrAssembler2\Appnotes\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\learning\AVRprogs\dynamInd\dynamInd.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>D:\learning\AVRprogs\dynamInd\dynamInd.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>D:\learning\AVRprogs\dynamInd\dynamInd.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Visible><FILE>D:\learning\AVRprogs\dynamInd\dynamInd.asm</FILE><LINE>23</LINE></Visible>
+  <Reset><FILE>D:\learning\AVRprogs\dynamInd\dynamInd.asm</FILE><LINE>33</LINE></Reset>
+  <TIM0_OVF><FILE>D:\learning\AVRprogs\dynamInd\dynamInd.asm</FILE><LINE>108</LINE></TIM0_OVF>
+  <Main><FILE>D:\learning\AVRprogs\dynamInd\dynamInd.asm</FILE><LINE>70</LINE></Main>
+  <Delay><FILE>D:\learning\AVRprogs\dynamInd\dynamInd.asm</FILE><LINE>93</LINE></Delay>
+  <PDelay><FILE>D:\learning\AVRprogs\dynamInd\dynamInd.asm</FILE><LINE>98</LINE></PDelay>
+  <Metka><FILE>D:\learning\AVRprogs\dynamInd\dynamInd.asm</FILE><LINE>129</LINE></Metka>
+  <Vix><FILE>D:\learning\AVRprogs\dynamInd\dynamInd.asm</FILE><LINE>121</LINE></Vix>
+ </LABELS>
+</ASSEMBLER_INFO>

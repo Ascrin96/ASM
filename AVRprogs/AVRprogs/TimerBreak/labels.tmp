@@ -1,0 +1,32 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.30</VERSION>
+ <DEVICE>ATmega128</DEVICE>
+ <WORKING_DIR>D:\learning\AVRprogs\TimerBreak</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:\learning\AVRStudio\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\learning\AVRprogs\TimerBreak\TimerBreak.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:\learning\AVRStudio\AvrAssembler2\Appnotes\m128def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\learning\AVRprogs\TimerBreak\TimerBreak.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>D:\learning\AVRprogs\TimerBreak\TimerBreak.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>D:\learning\AVRprogs\TimerBreak\TimerBreak.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <buf><FILE>D:\learning\AVRprogs\TimerBreak\TimerBreak.asm</FILE><LINE>15</LINE></buf>
+  <start><FILE>D:\learning\AVRprogs\TimerBreak\TimerBreak.asm</FILE><LINE>25</LINE></start>
+  <init><FILE>D:\learning\AVRprogs\TimerBreak\TimerBreak.asm</FILE><LINE>66</LINE></init>
+  <prtim1><FILE>D:\learning\AVRprogs\TimerBreak\TimerBreak.asm</FILE><LINE>130</LINE></prtim1>
+  <main><FILE>D:\learning\AVRprogs\TimerBreak\TimerBreak.asm</FILE><LINE>113</LINE></main>
+  <m1><FILE>D:\learning\AVRprogs\TimerBreak\TimerBreak.asm</FILE><LINE>119</LINE></m1>
+  <p2><FILE>D:\learning\AVRprogs\TimerBreak\TimerBreak.asm</FILE><LINE>149</LINE></p2>
+  <p1><FILE>D:\learning\AVRprogs\TimerBreak\TimerBreak.asm</FILE><LINE>142</LINE></p1>
+  <p3><FILE>D:\learning\AVRprogs\TimerBreak\TimerBreak.asm</FILE><LINE>155</LINE></p3>
+ </LABELS>
+</ASSEMBLER_INFO>
