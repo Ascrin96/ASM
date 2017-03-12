@@ -1,0 +1,2 @@
+@ECHO OFF
+"D:\learning\AVRStudio\AvrAssembler2\avrasm2.exe" -S "D:\learning\AVRprogs\timeBreakTiny\labels.tmp" -fI -W+ie -o "D:\learning\AVRprogs\timeBreakTiny\timeBreakTiny.hex" -d "D:\learning\AVRprogs\timeBreakTiny\timeBreakTiny.obj" -e "D:\learning\AVRprogs\timeBreakTiny\timeBreakTiny.eep" -m "D:\learning\AVRprogs\timeBreakTiny\timeBreakTiny.map" "D:\learning\AVRprogs\timeBreakTiny\timeBreakTiny.asm"

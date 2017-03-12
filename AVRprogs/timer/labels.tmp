@@ -1,0 +1,31 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.30</VERSION>
+ <DEVICE>ATmega16</DEVICE>
+ <WORKING_DIR>D:\learning\AVRprogs\timer</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:\learning\AVRStudio\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\learning\AVRprogs\timer\timer.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:\learning\AVRStudio\AvrAssembler2\Appnotes\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\learning\AVRprogs\timer\timer.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>D:\learning\AVRprogs\timer\timer.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>D:\learning\AVRprogs\timer\timer.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Reset><FILE>D:\learning\AVRprogs\timer\timer.asm</FILE><LINE>15</LINE></Reset>
+  <TIM1_OVF><FILE>D:\learning\AVRprogs\timer\timer.asm</FILE><LINE>44</LINE></TIM1_OVF>
+  <Proga><FILE>D:\learning\AVRprogs\timer\timer.asm</FILE><LINE>40</LINE></Proga>
+  <Led2><FILE>D:\learning\AVRprogs\timer\timer.asm</FILE><LINE>72</LINE></Led2>
+  <Led3><FILE>D:\learning\AVRprogs\timer\timer.asm</FILE><LINE>77</LINE></Led3>
+  <Led4><FILE>D:\learning\AVRprogs\timer\timer.asm</FILE><LINE>82</LINE></Led4>
+  <Led1><FILE>D:\learning\AVRprogs\timer\timer.asm</FILE><LINE>67</LINE></Led1>
+  <Vix><FILE>D:\learning\AVRprogs\timer\timer.asm</FILE><LINE>58</LINE></Vix>
+ </LABELS>
+</ASSEMBLER_INFO>

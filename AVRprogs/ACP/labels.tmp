@@ -1,0 +1,27 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.30</VERSION>
+ <DEVICE>ATmega16</DEVICE>
+ <WORKING_DIR>D:\learning\AVRprogs\ACP</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:\learning\AVRStudio\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\learning\AVRprogs\ACP\ACP.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:\learning\AVRStudio\AvrAssembler2\Appnotes\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\learning\AVRprogs\ACP\ACP.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>D:\learning\AVRprogs\ACP\ACP.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>D:\learning\AVRprogs\ACP\ACP.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Reset><FILE>D:\learning\AVRprogs\ACP\ACP.asm</FILE><LINE>16</LINE></Reset>
+  <ADC_Conf><FILE>D:\learning\AVRprogs\ACP\ACP.asm</FILE><LINE>37</LINE></ADC_Conf>
+  <Main><FILE>D:\learning\AVRprogs\ACP\ACP.asm</FILE><LINE>33</LINE></Main>
+  <Vix><FILE>D:\learning\AVRprogs\ACP\ACP.asm</FILE><LINE>44</LINE></Vix>
+ </LABELS>
+</ASSEMBLER_INFO>
