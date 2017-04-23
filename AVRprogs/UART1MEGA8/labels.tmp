@@ -1,0 +1,28 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.30</VERSION>
+ <DEVICE>ATmega8</DEVICE>
+ <WORKING_DIR>D:\learning\AVRprogs\UART1MEGA8</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:\learning\AVRStudio\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\learning\AVRprogs\UART1MEGA8\UART1MEGA8.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:\learning\AVRStudio\AvrAssembler2\Appnotes\m8def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\learning\AVRprogs\UART1MEGA8\UART1MEGA8.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>D:\learning\AVRprogs\UART1MEGA8\UART1MEGA8.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>D:\learning\AVRprogs\UART1MEGA8\UART1MEGA8.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <initial><FILE>D:\learning\AVRprogs\UART1MEGA8\UART1MEGA8.asm</FILE><LINE>34</LINE></initial>
+  <main><FILE>D:\learning\AVRprogs\UART1MEGA8\UART1MEGA8.asm</FILE><LINE>40</LINE></main>
+  <init_USART><FILE>D:\learning\AVRprogs\UART1MEGA8\UART1MEGA8.asm</FILE><LINE>50</LINE></init_USART>
+  <USART_send><FILE>D:\learning\AVRprogs\UART1MEGA8\UART1MEGA8.asm</FILE><LINE>60</LINE></USART_send>
+  <loop><FILE>D:\learning\AVRprogs\UART1MEGA8\UART1MEGA8.asm</FILE><LINE>47</LINE></loop>
+ </LABELS>
+</ASSEMBLER_INFO>

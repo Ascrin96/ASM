@@ -1,0 +1,27 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.30</VERSION>
+ <DEVICE>ATmega16</DEVICE>
+ <WORKING_DIR>D:\learning\AVRprogs\UART1</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:\learning\AVRStudio\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\learning\AVRprogs\UART1\UART1.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:\learning\AVRStudio\AvrAssembler2\Appnotes\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\learning\AVRprogs\UART1\UART1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>D:\learning\AVRprogs\UART1\UART1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>D:\learning\AVRprogs\UART1\UART1.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <uart_init><FILE>D:\learning\AVRprogs\UART1\UART1.asm</FILE><LINE>9</LINE></uart_init>
+  <uart_snt><FILE>D:\learning\AVRprogs\UART1\UART1.asm</FILE><LINE>28</LINE></uart_snt>
+  <Main><FILE>D:\learning\AVRprogs\UART1\UART1.asm</FILE><LINE>39</LINE></Main>
+  <uart_rcv><FILE>D:\learning\AVRprogs\UART1\UART1.asm</FILE><LINE>48</LINE></uart_rcv>
+ </LABELS>
+</ASSEMBLER_INFO>

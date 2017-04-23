@@ -1,0 +1,2 @@
+@ECHO OFF
+"D:\learning\AVRStudio\AvrAssembler2\avrasm2.exe" -S "D:\learning\AVRprogs\UART1interapt\labels.tmp" -fI -W+ie -o "D:\learning\AVRprogs\UART1interapt\UART1interapt.hex" -d "D:\learning\AVRprogs\UART1interapt\UART1interapt.obj" -e "D:\learning\AVRprogs\UART1interapt\UART1interapt.eep" -m "D:\learning\AVRprogs\UART1interapt\UART1interapt.map" "D:\learning\AVRprogs\UART1interapt\UART1interapt.asm"

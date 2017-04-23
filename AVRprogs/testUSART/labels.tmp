@@ -1,0 +1,30 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.30</VERSION>
+ <DEVICE>ATmega16</DEVICE>
+ <WORKING_DIR>D:\learning\AVRprogs\testUSART</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:\learning\AVRStudio\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\learning\AVRprogs\testUSART\testUSART.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:\learning\AVRStudio\AvrAssembler2\Appnotes\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\learning\AVRprogs\testUSART\testUSART.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>D:\learning\AVRprogs\testUSART\testUSART.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>D:\learning\AVRprogs\testUSART\testUSART.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Reset><FILE>D:\learning\AVRprogs\testUSART\testUSART.asm</FILE><LINE>20</LINE></Reset>
+  <USART_RXC><FILE>D:\learning\AVRprogs\testUSART\testUSART.asm</FILE><LINE>41</LINE></USART_RXC>
+  <USART_TXC><FILE>D:\learning\AVRprogs\testUSART\testUSART.asm</FILE><LINE>56</LINE></USART_TXC>
+  <Main><FILE>D:\learning\AVRprogs\testUSART\testUSART.asm</FILE><LINE>38</LINE></Main>
+  <VixUR><FILE>D:\learning\AVRprogs\testUSART\testUSART.asm</FILE><LINE>52</LINE></VixUR>
+  <Jet><FILE>D:\learning\AVRprogs\testUSART\testUSART.asm</FILE><LINE>73</LINE></Jet>
+  <VixUT><FILE>D:\learning\AVRprogs\testUSART\testUSART.asm</FILE><LINE>69</LINE></VixUT>
+ </LABELS>
+</ASSEMBLER_INFO>
